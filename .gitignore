@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+players_data.csv
+.env
+.venv/
+venv/
+.DS_Store
+Notun Kuri/
